@@ -1,4 +1,4 @@
-<h1 align="left" id="finma-title">:wave: Hello there! I'm Firman Maulana</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Firman Maulana</h1>
 
 <h2 align="left" id="finma">Favorite Tech</h2>
 
@@ -27,7 +27,7 @@
     </td>
     <td align="center" width="96">
       <a href="#finma">
-        <img src="./img/nodejs-1.svg" width="48" height="48" alt="NodeJS" />
+        <img src="./img/nodejs-icon.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
@@ -79,7 +79,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/next-js.svg" width="48" height="48" alt="NextJS" />
+        <img src="./img/nextjs.png" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
     </td>
