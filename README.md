@@ -1,5 +1,12 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Firman Maulana</h1>
 
+<a href="https://github.com/finma/finma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=finma&show_icons=true&theme=tokyonight&hide=contribs,issues" />
+</a>
+<a href="https://github.com/finma/finma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finma&exclude_repo=online-shop-be&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
+
 <h2 align="left" id="finma">Favorite Tech</h2>
 
 > Tools, languages, and other things that I learn.
@@ -32,6 +39,18 @@
       <br>NodeJS
     </td>
   </tr>
+  <td align="center"  width="96">
+      <a href="#finma">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center"  width="96">
+      <a href="#finma">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
   <tr>
     <td align="center"  width="96">
       <a href="#finma">
@@ -56,20 +75,6 @@
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
       </a>
       <br>Boostrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>Typescript
-    </td>
-    <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
     </td>
     <td align="center"  width="96">
       <a href="#finma">
