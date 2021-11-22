@@ -38,8 +38,7 @@
       </a>
       <br>NodeJS
     </td>
-  </tr>
-  <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="#finma">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="Typescript" />
       </a>
@@ -51,6 +50,8 @@
       </a>
       <br>Javascript
     </td>
+  </tr>
+  
   <tr>
     <td align="center"  width="96">
       <a href="#finma">
