@@ -1,15 +1,12 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Firman Maulana</h1>
+<p align="center"><img src="img/finma.png" width="350"></p>
 
-<a href="https://github.com/finma/finma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=finma&show_icons=true&theme=tokyonight&hide=contribs,issues" />
-</a>
-<a href="https://github.com/finma/finma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finma&exclude_repo=online-shop-be&layout=compact&show_icons=true&theme=tokyonight" />
-</a>
+| <a href="https://github.com/finma"><img align="center" src="https://github-readme-stats.vercel.app/api?username=finma&show_icons=true&theme=tokyonight&hide=contribs,issues&count_private=true" alt="Finma's github stats" /></a> | <a href="https://github.com/finma"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finma&count_private=true&exclude_repo=online-shop-be&layout=compact&show_icons=true&theme=tokyonight" /></a> |
+| ------------- | ------------- |
 
 <h2 align="left" id="finma">Favorite Tech</h2>
 
 > Tools, languages, and other things that I learn.
+
 
 <div align="center">
 <table align="center">
